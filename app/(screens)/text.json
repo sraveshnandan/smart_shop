@@ -1,0 +1,50 @@
+{
+  "productData": {
+    "id": "65ef31d0d35c3695ad3dd82b",
+    "title": "iQOO Neo 7 Pro 5G (Fearless Flame, 8Gb Ram, 128Gb Storage) | Snapdragon 8+ Gen 1 | Independent Gaming Chip | Flagship 50Mp Ois Camera | Premium Leather Design, Orange",
+    "description": "Snapdragon 8+ Gen 1 Mobile Platform adopts TSMC 4nm Process & has Superior Flagship Grade Performance with LPDDR5 RAM & UFS 3.1 Storage. Independent Gaming Chip boosts FPS by Game Frame Interpolation, sharpens Display with Game Display Enhancement and reduces power consumption.Takes only 8 min to charge from 1% to 50% with 120W FlashCharge in Fast Charging Mode (100% in 25 min)Utmost clarity whether it's Day or Night with Flagship 50MP GN5 OIS Ultra-Sensing coupled with Ultra-Wide (8MP) and Macro Camera",
+    "category": [
+      "65f802c8d1aca77d0a0438a7",
+      "65f24ea14897883c02abcd64"
+    ],
+    "images": [
+      {
+        "public_id": "01",
+        "url": "https://m.media-amazon.com/images/I/71CXhVhpM0L._SX679_.jpg"
+      },
+      {
+        "public_id": "02",
+        "url": "https://m.media-amazon.com/images/I/71JLhofuYJL._SX679_.jpg"
+      },
+      {
+        "public_id": "03",
+        "url": "https://m.media-amazon.com/images/I/71ZdFihN4YL._SX679_.jpg"
+      },
+      {
+        "public_id": "04",
+        "url": "https://m.media-amazon.com/images/I/71RaUP4g7KL._SX679_.jpg"
+      }
+    ],
+    "original_price": 39999,
+    "discount_price": 30999,
+    "owner": "65f24f0b4897883c02abcd76",
+    "extra": [
+      {
+        "name": "Brand",
+        "value": "IQOO"
+      },
+      {
+        "name": "Model name",
+        "value": "iQOO Neo 7 Pro 5G"
+      },
+      {
+        "name": "Cellular Technology",
+        "value": "5G"
+      },
+      {
+        "name": "Operating System",
+        "value": "Funtouch OS 13 Based On Android 13"
+      }
+    ]
+  }
+}
